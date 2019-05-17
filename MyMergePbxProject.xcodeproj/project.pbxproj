@@ -99,6 +99,7 @@
 		B2790BF3228E9901003DF91A /* MyMergePbxProject */ = {
 			isa = PBXGroup;
 			children = (
+				B2790C25228E9C76003DF91A /* Classes */,
 				B2790BF4228E9901003DF91A /* AppDelegate.swift */,
 				B2790BF6228E9901003DF91A /* ViewController.swift */,
 				B2790BF8228E9901003DF91A /* Main.storyboard */,
@@ -126,6 +127,13 @@
 				B2790C16228E990E003DF91A /* Info.plist */,
 			);
 			path = MyMergePbxProjectUITests;
+			sourceTree = "<group>";
+		};
+		B2790C25228E9C76003DF91A /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
